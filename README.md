@@ -1,3 +1,3 @@
 # TinDog
 
-Head on the tindog website: https://amitk161.github.io/tindog/
+Head on to the tindog website: https://amitk161.github.io/tindog/
